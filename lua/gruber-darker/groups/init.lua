@@ -7,4 +7,6 @@ end
 return {
    syntax = init( "syntax" ),
    editor = init( "editor" ),
+   indent_blankline = init( "indent-blankline" ),
+   treesitter = init( "treesitter" ),
 }
